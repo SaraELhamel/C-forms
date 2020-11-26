@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\form2\form2\bin\Debug\netcoreapp3.1\form2.exe
+C:\Users\admin\Desktop\form2\form2\bin\Debug\netcoreapp3.1\form2.deps.json
+C:\Users\admin\Desktop\form2\form2\bin\Debug\netcoreapp3.1\form2.runtimeconfig.json
+C:\Users\admin\Desktop\form2\form2\bin\Debug\netcoreapp3.1\form2.runtimeconfig.dev.json
+C:\Users\admin\Desktop\form2\form2\bin\Debug\netcoreapp3.1\form2.dll
+C:\Users\admin\Desktop\form2\form2\bin\Debug\netcoreapp3.1\form2.pdb
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.Form1.resources
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.AssemblyInfo.cs
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.dll
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.pdb
+C:\Users\admin\Desktop\form2\form2\obj\Debug\netcoreapp3.1\form2.genruntimeconfig.cache
